@@ -5,6 +5,11 @@
     width: 450px;
     background-color: rgba(7, 1, 1, 0.932)
 }
+img{
+    height: 100px;
+    width: 250px;
+    margin-left: 100px;
+}
 .div1{
     padding: 10px;
     padding-left: 30px;
